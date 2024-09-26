@@ -4,11 +4,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 The Library Management System is a software application designed to manage the operations of a library. It provides a user-friendly interface for both library staff and patrons to manage books, members, and transactions efficiently. This project aims to automate the various functions of a library, including borrowing, returning, and managing inventory.
