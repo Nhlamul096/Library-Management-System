@@ -39,14 +39,7 @@ The Library Management System is a software application designed to manage the o
 
 ## Technologies Used
 - **Programming Language**: Java
-- **Framework**: [Spring Boot](https://spring.io/projects/spring-boot)
 - **Database**: [MySQL](https://www.mysql.com/)
 - **Frontend**: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Build Tool**: Maven
 
-## Installation
-To install and run the Library Management System locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/library-management-system.git
